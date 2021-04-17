@@ -1,0 +1,166 @@
+.navbar-nav li{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family:  'Josefin Sans', sans-serif;
+}
+#one button{
+    background-color: #f05945;
+    border-radius:20px;
+    color:white;
+    font-size:20px;
+    margin-top:-70px;
+    font-family:  'Josefin Sans', sans-serif;
+    border-width: thin;
+    width:200px;
+    height:60px;
+}
+
+#two{
+    background-color:#f58634;
+    
+    font-size: 50px;
+    color: white;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+#pa{
+    font-family: 'Pacifico', cursive;
+}
+#two button{
+    background-color: #f05945;
+    border-radius:20px;
+    color:white;
+    font-size:20px;
+    margin-top:40px;
+    font-family:  'Josefin Sans', sans-serif;
+    border-width: thin;
+    width:200px;
+    height:50px;
+}
+#three button{
+    background-color: #f05945;
+    border-radius:20px;
+    color:white;
+    width:200px;
+    height:50px;
+    margin-left: 150px;
+    font-size:20px;
+   font-family:  'Josefin Sans', sans-serif;
+    border-width: thin;
+}
+#three{
+    background-color:lightgreen;
+}
+#three img{
+    padding: 30px;
+}
+.parallax {
+    background-image: url(images/back.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:80vh;
+}
+.parallax img{
+    padding: 100px;
+}
+.parallax button{
+    background-color: #f05945;
+    border-radius:20px;
+    color:white;
+    float: inherit;
+    font-size:20px;
+    margin-top:-40px;
+    font-family:  'Josefin Sans', sans-serif;
+    border-width: thin;
+    width: 200px;
+    height: 50px;
+    margin-left: 80px ;
+    
+}
+#facebook{
+    width:40px;
+    height:40px;
+    border-radius:50px;
+    background-image: url(images/fb.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-width: thin;
+    border-color: transparent;
+}
+
+#insta{
+    background-image: url(images/insta.jpg);
+    background-size:cover;
+    width:40px;
+    height:40px;
+    border-radius:50px;
+    margin-left:20px;
+    background-position: center;
+    border-width: thin;
+    border-color: transparent;
+}
+#youtube{
+    background-image: url(images/yt.png);
+    background-size:cover;
+    width:40px;
+    height:40px;
+    border-radius:50px;
+    margin-left:20px;
+    border-width: thin;
+    border-color: transparent;
+}
+#twitter{
+    background-image: url(images/twitter.png);
+    background-size:cover;
+    width:40px;
+    height:40px;
+    border-radius:50px;
+    margin-left:20px;
+    border-width: thin;
+    border-color: transparent;
+}
+#pin{
+    background-image: url(images/pininterest.png);
+    background-size:cover;
+    width:40px;
+    height:40px;
+    border-radius:50px;
+    margin-left:20px;
+    border-width: thin;
+    border-color: transparent;
+}
+hr{
+    height:1px;
+    background-color: grey;
+}
+.footer p{
+    font-size:15px;
+    margin-left: -10px;
+}
+.footer div{
+    margin-left:10px;
+}
+#btns{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.navbar-brand img{
+    height:72px;
+    width:50px;
+}
+a{
+    cursor: pointer;
+}
+#gif{
+    width:40px;
+    height:25px;
+    background: transparent;
+}
+.navbar-header span{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
